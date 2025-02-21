@@ -75,3 +75,4 @@ The model was trained using **Linear Regression and Loss Regression** in the Jup
 
 ---
 
+![Screenshot (693)](https://github.com/user-attachments/assets/c217a615-8bd7-40a9-aa4b-d0e74865628c)
